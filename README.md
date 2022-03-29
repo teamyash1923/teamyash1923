@@ -13,5 +13,5 @@
 > Fullstack Developer - [@Yasar Arafath](https://github.com/yasar195) <br>
 > Developer & UIUX - [@Hari Prasad](https://github.com/hariprasd) <br>
 > FrontEnd Developer - [@Shibin T A](https://github.com/shibinashraf) <br>
-> Project Management - [@Akash](#0)
+> Project Management - [@Akash](#)
 
